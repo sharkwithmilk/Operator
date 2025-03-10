@@ -1,0 +1,8 @@
+браузер=start msedge
+блокнот=notepad.exe
+закрыть=hotkey alt f4
+вкладка=hotkey ctrl t
+открой календарь=start outlookcal
+я класс=start msedge --profile-directory="Profile 1" "https://www.yaklass.ru"
+я квас=start msedge --profile-directory="Profile 1" "https://www.yaklass.ru"
+ютюб плюс ди скоро=start "C:\Users\user\Downloads\zapret-discord-youtube-1.4.0\general.bat"
