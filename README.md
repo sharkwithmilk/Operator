@@ -1,2 +1,2 @@
-# Operator
+# Operator(abandoned)
 Мини оператор компа который с помощью модели tts vosk выполняет команды powershell заранее заданым списком
